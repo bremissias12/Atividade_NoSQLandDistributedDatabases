@@ -9,7 +9,7 @@
 
 ## 📌 Descrição do Projeto
 
-A empresa Amazonas do ramo de e-commerce deseja acompanhar os fluxos de cliques de seus clientes, bem como rastrear os produtos que eles compram.Neste momento, a empresa vende livros, CDs e pequenos eletrodomésticos de cozinha apenas, mas provavelmente irá expandir para outros produtos no futuro.
+A empresa Amazonas do ramo de e-commerce deseja acompanhar os fluxos de cliques de seus clientes, bem como rastrear os produtos que eles compram. Neste momento, a empresa vende livros, CDs e pequenos eletrodomésticos de cozinha apenas, mas provavelmente irá expandir para outros produtos no futuro.
 
 Amazonas quer ser capaz de responder às seguintes perguntas:
 
