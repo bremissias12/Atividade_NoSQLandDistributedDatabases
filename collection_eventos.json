@@ -1,0 +1,314 @@
+[
+  {
+    "type": "compras",
+    "cliente_id": "C0001",
+    "produto": { "produto_id": "P1001", "categoria": "livro", "valor": 49.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-10T10:05:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0002",
+    "produto": { "produto_id": "P1003", "categoria": "eletrodomestico", "valor": 199.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-11T11:10:00Z" },
+    "metadata": { "pagamento": "debito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0003",
+    "produto": { "produto_id": "P1004", "categoria": "CD", "valor": 29.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-12T12:05:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0005",
+    "produto": { "produto_id": "P1007", "categoria": "livro", "valor": 59.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-14T14:06:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0006",
+    "produto": { "produto_id": "P1008", "categoria": "CD", "valor": 34.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-15T15:07:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0007",
+    "produto": { "produto_id": "P1009", "categoria": "eletrodomestico", "valor": 149.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-16T16:15:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0008",
+    "produto": { "produto_id": "P1010", "categoria": "livro", "valor": 79.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-17T17:08:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0009",
+    "produto": { "produto_id": "P1002", "categoria": "CD", "valor": 29.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-18T18:04:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0010",
+    "produto": { "produto_id": "P1011", "categoria": "livro", "valor": 39.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-19T10:10:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0011",
+    "produto": { "produto_id": "P1012", "categoria": "CD", "valor": 24.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-20T11:06:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0012",
+    "produto": { "produto_id": "P1013", "categoria": "eletrodomestico", "valor": 89.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-21T12:07:00Z" },
+    "metadata": { "pagamento": "debito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0013",
+    "produto": { "produto_id": "P1014", "categoria": "livro", "valor": 54.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-22T13:10:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0015",
+    "produto": { "produto_id": "P1016", "categoria": "eletrodomestico", "valor": 134.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-24T10:12:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0016",
+    "produto": { "produto_id": "P1017", "categoria": "livro", "valor": 29.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-25T11:07:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0017",
+    "produto": { "produto_id": "P1018", "categoria": "CD", "valor": 25.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-26T12:15:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0019",
+    "produto": { "produto_id": "P1019", "categoria": "livro", "valor": 65.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-27T13:22:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0020",
+    "produto": { "produto_id": "P1020", "categoria": "eletrodomestico", "valor": 179.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-28T14:30:00Z" },
+    "metadata": { "pagamento": "debito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0021",
+    "produto": { "produto_id": "P1021", "categoria": "CD", "valor": 22.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-29T15:11:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0022",
+    "produto": { "produto_id": "P1022", "categoria": "livro", "valor": 47.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-30T16:00:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0023",
+    "produto": { "produto_id": "P1023", "categoria": "CD", "valor": 28.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-01-31T17:05:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0024",
+    "produto": { "produto_id": "P1024", "categoria": "eletrodomestico", "valor": 99.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-01T10:45:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0025",
+    "produto": { "produto_id": "P1025", "categoria": "livro", "valor": 58.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-02T12:12:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0026",
+    "produto": { "produto_id": "P1026", "categoria": "CD", "valor": 31.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-03T13:22:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+    {
+    "type": "compras",
+    "cliente_id": "C0027",
+    "produto": { "produto_id": "P1027", "categoria": "livro", "valor": 66.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-04T14:31:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0028",
+    "produto": { "produto_id": "P1028", "categoria": "eletrodomestico", "valor": 159.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-05T15:40:00Z" },
+    "metadata": { "pagamento": "debito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0029",
+    "produto": { "produto_id": "P1029", "categoria": "CD", "valor": 26.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-06T16:50:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0030",
+    "produto": { "produto_id": "P1030", "categoria": "livro", "valor": 45.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-07T17:55:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0031",
+    "produto": { "produto_id": "P1031", "categoria": "CD", "valor": 23.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-08T09:15:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0032",
+    "produto": { "produto_id": "P1032", "categoria": "eletrodomestico", "valor": 129.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-09T10:25:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0033",
+    "produto": { "produto_id": "P1033", "categoria": "livro", "valor": 52.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-10T11:35:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0034",
+    "produto": { "produto_id": "P1034", "categoria": "CD", "valor": 27.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-11T12:45:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0035",
+    "produto": { "produto_id": "P1035", "categoria": "eletrodomestico", "valor": 149.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-12T13:55:00Z" },
+    "metadata": { "pagamento": "debito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0036",
+    "produto": { "produto_id": "P1036", "categoria": "livro", "valor": 48.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-13T15:05:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0037",
+    "produto": { "produto_id": "P1037", "categoria": "CD", "valor": 24.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-14T16:15:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0038",
+    "produto": { "produto_id": "P1038", "categoria": "eletrodomestico", "valor": 119.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-15T17:25:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0039",
+    "produto": { "produto_id": "P1039", "categoria": "livro", "valor": 51.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-16T09:35:00Z" },
+    "metadata": { "pagamento": "credito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0040",
+    "produto": { "produto_id": "P1040", "categoria": "CD", "valor": 28.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-17T10:45:00Z" },
+    "metadata": { "pagamento": "pix" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0041",
+    "produto": { "produto_id": "P1041", "categoria": "eletrodomestico", "valor": 134.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-18T11:55:00Z" },
+    "metadata": { "pagamento": "debito" }
+  },
+  {
+    "type": "compras",
+    "cliente_id": "C0042",
+    "produto": { "produto_id": "P1042", "categoria": "livro", "valor": 50.9 },
+    "pagina": "/checkout",
+    "dt_compra": { "$date": "2025-02-19T13:05:00Z" },
+    "metadata": { "pagamento": "credito" }
+  }
+]

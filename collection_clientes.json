@@ -1,0 +1,142 @@
+[
+  {
+    "cliente_id": "C0001",
+    "nome": "Lucas Silva",
+    "email": "lucas.silva@example.com",
+    "uf": "SP",
+    "dt_cadastro": { "$date": "2024-01-15T08:23:00Z" }
+  },
+  {
+    "cliente_id": "C0002",
+    "nome": "Mariana Costa",
+    "email": "mariana.costa@example.com",
+    "uf": "RJ",
+    "dt_cadastro": { "$date": "2024-02-10T11:42:00Z" }
+  },
+  {
+    "cliente_id": "C0003",
+    "nome": "Pedro Oliveira",
+    "email": "pedro.oliveira@example.com",
+    "uf": "MG",
+    "dt_cadastro": { "$date": "2024-03-05T14:18:00Z" }
+  },
+  {
+    "cliente_id": "C0004",
+    "nome": "Ana Souza",
+    "email": "ana.souza@example.com",
+    "uf": "RS",
+    "dt_cadastro": { "$date": "2024-01-22T10:05:00Z" }
+  },
+  {
+    "cliente_id": "C0005",
+    "nome": "Rafael Santos",
+    "email": "rafael.santos@example.com",
+    "uf": "BA",
+    "dt_cadastro": { "$date": "2024-02-18T09:50:00Z" }
+  },
+  {
+    "cliente_id": "C0006",
+    "nome": "Beatriz Lima",
+    "email": "beatriz.lima@example.com",
+    "uf": "PR",
+    "dt_cadastro": { "$date": "2024-03-12T13:30:00Z" }
+  },
+  {
+    "cliente_id": "C0007",
+    "nome": "Gabriel Rocha",
+    "email": "gabriel.rocha@example.com",
+    "uf": "CE",
+    "dt_cadastro": { "$date": "2024-01-30T16:40:00Z" }
+  },
+  {
+    "cliente_id": "C0008",
+    "nome": "Juliana Pereira",
+    "email": "juliana.pereira@example.com",
+    "uf": "SC",
+    "dt_cadastro": { "$date": "2024-02-25T12:27:00Z" }
+  },
+  {
+    "cliente_id": "C0009",
+    "nome": "Felipe Almeida",
+    "email": "felipe.almeida@example.com",
+    "uf": "PE",
+    "dt_cadastro": { "$date": "2024-03-09T15:18:00Z" }
+  },
+  {
+    "cliente_id": "C0010",
+    "nome": "Carolina Fernandes",
+    "email": "carolina.fernandes@example.com",
+    "uf": "GO",
+    "dt_cadastro": { "$date": "2024-01-28T10:12:00Z" }
+  },
+  {
+    "cliente_id": "C0011",
+    "nome": "Fernando Ribeiro",
+    "email": "fernando.ribeiro@example.com",
+    "uf": "SP",
+    "dt_cadastro": { "$date": "2024-02-15T11:55:00Z" }
+  },
+  {
+    "cliente_id": "C0012",
+    "nome": "Patrícia Martins",
+    "email": "patricia.martins@example.com",
+    "uf": "RJ",
+    "dt_cadastro": { "$date": "2024-02-20T14:20:00Z" }
+  },
+  {
+    "cliente_id": "C0013",
+    "nome": "Rodrigo Gomes",
+    "email": "rodrigo.gomes@example.com",
+    "uf": "MG",
+    "dt_cadastro": { "$date": "2024-03-01T09:33:00Z" }
+  },
+  {
+    "cliente_id": "C0014",
+    "nome": "Larissa Alves",
+    "email": "larissa.alves@example.com",
+    "uf": "RS",
+    "dt_cadastro": { "$date": "2024-01-18T08:47:00Z" }
+  },
+  {
+    "cliente_id": "C0015",
+    "nome": "Tiago Barbosa",
+    "email": "tiago.barbosa@example.com",
+    "uf": "BA",
+    "dt_cadastro": { "$date": "2024-02-22T13:15:00Z" }
+  },
+  {
+    "cliente_id": "C0016",
+    "nome": "Camila Nunes",
+    "email": "camila.nunes@example.com",
+    "uf": "PR",
+    "dt_cadastro": { "$date": "2024-03-14T17:02:00Z" }
+  },
+  {
+    "cliente_id": "C0017",
+    "nome": "André Moreira",
+    "email": "andre.moreira@example.com",
+    "uf": "CE",
+    "dt_cadastro": { "$date": "2024-01-27T15:40:00Z" }
+  },
+  {
+    "cliente_id": "C0018",
+    "nome": "Vanessa Pinto",
+    "email": "vanessa.pinto@example.com",
+    "uf": "SC",
+    "dt_cadastro": { "$date": "2024-02-12T12:11:00Z" }
+  },
+  {
+    "cliente_id": "C0019",
+    "nome": "Eduardo Costa",
+    "email": "eduardo.costa@example.com",
+    "uf": "PE",
+    "dt_cadastro": { "$date": "2024-03-08T14:55:00Z" }
+  },
+  {
+    "cliente_id": "C0020",
+    "nome": "Julia Araújo",
+    "email": "julia.araujo@example.com",
+    "uf": "GO",
+    "dt_cadastro": { "$date": "2024-01-20T09:21:00Z" }
+  }
+]
