@@ -3,7 +3,7 @@
 
 ## 👥 Integrantes do Grupo
 
-- BRENO MISSIAS DE OLIVEIRA – RA: 2500036  
+- Breno Missias de Oliveira – RA: 2500036  
 - Lucas Silva Santos – RA: 2504094
 - Fernanda Sarabando Santolaya – RA: 2502257
 
